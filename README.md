@@ -12,7 +12,7 @@ A curated list of awesome open source projects around micro
 
 ## Example Service
 
-* [starter-kit](https://github.com/micro-in-cn/starter-kit) [![Stars](https://img.shields.io/github/stars/micro-in-cn/starter-kit.svg)](https://github.com/micro-in-cn/starter-kit - Quick Go-Micro 快速开发包.
+* [starter-kit](https://github.com/micro-in-cn/starter-kit) [![Stars](https://img.shields.io/github/stars/micro-in-cn/starter-kit.svg)](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包.
 
 
 ## Deployment
