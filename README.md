@@ -15,11 +15,11 @@ A curated list of awesome open source projects around micro
 
 ## Site
 
-- [Micro](https://m3o.com)
+- [Micro Offical](https://m3o.com)
 - [Micro Community](https://micro.arch.run)
-- [Micro China](https://microhq.cn)
+- [Micro China Offical](https://microhq.cn)
 - [Micro GitHub](https://github.com/micro)
-- [Micro Community](https://github.com/micro)
+- [Micro Community GitHub](https://github.com/micro)
 - [Blog](https://medium.com/microhq)
 - [Docs](https://dev.m3o.com)
 - [Micro Community Docs](https://dev.micro.arch.wiki/)
