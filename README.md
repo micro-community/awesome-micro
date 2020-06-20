@@ -57,7 +57,7 @@ A curated list of awesome open source projects around micro
 
 - [Microservices in Go](https://www.youtube.com/watch?v=OcjMi9cXItY) with [@bketelsen](https://github.com/bketelsen)
 - [Simplifying Microservices with Micro](https://www.youtube.com/watch?v=xspaDovwk34) with [@asim](https://www.youtube.com/watch?v=xspaDovwk34)
-
+- [learning-videos-cn](https://github.com/micro-in-cn/learning-videos)
 
 ## Plugins
 
