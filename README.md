@@ -45,6 +45,7 @@ A curated list of awesome open source projects around micro
 - [Shippy](https://github.com/EwanValentine/shippy) [![Stars](https://img.shields.io/github/stars/EwanValentine/shippy.svg)](https://github.com/EwanValentine/shippy) - The code for Microservices in Golang tutorial
 - [goTemp](https://bitbucket.org/Bolbeck/gotemp/src/master) -  Introduction to Golang microservices using go-micro
 
+- [k8s-starter](https://github.com/yaoliu/k8s-micro)
 
 ## Example
 
